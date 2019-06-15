@@ -1,0 +1,225 @@
+body{
+    background-image: linear-gradient(to top, red, white, red, white, red,
+    white, red, white);
+}
+
+.main
+{ 
+    background-color: white;
+    width: 95%;
+    height: 160%;
+    margin: auto;
+}
+
+.header
+{
+    background-color: #de2918;
+    width: 100%;
+    height: 17%;
+}
+
+.icon
+{
+   height: 96%;
+    width: 15%;
+    float: left;
+}
+
+.header_center{
+    background-color: #de2918;
+    height: 96%;
+    width: 48%;
+    float: left;
+}
+
+.heading
+{
+    font-family: 'Comic Sans MS';
+    font-size: 55px;
+    text-align: center;
+    text-shadow: 8px 4px 4px grey;
+    color: azure;
+}
+
+.header_menu
+{
+    background-color: #de2918;
+    height: 96% ;
+    width: 32%;
+    float: left;
+    text-align: center;
+
+
+}
+
+.header_menu .button
+{
+    background-color: bisque;
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+.menu
+{    
+    background-color: #c6c5c4;;
+    width: 100%;
+    height: 6%;
+    margin-top: -18px;
+}
+
+.side_menu
+{
+    background-color: white;
+    width: 20%;
+    height: 77.5%;  
+    float: left;
+}
+
+
+.side_menu1 ul{
+    list-style: none;
+}
+
+.side_menu1 ul li{
+    padding:  8px;
+   }
+
+
+.side_menu1 ul li a{
+    padding: 0px 1px;
+    font-size: 15px;
+    font-family: 'arial';
+    text-decoration: underline;
+    list-style: none;
+    color: red;  
+}
+.content
+{    
+    background-color: white;
+    width: 79.3%;
+    height: 77.5%;    
+    float: right;
+    overflow: scroll
+}
+
+.side_menu1
+{
+    background-color: #c6c5c4;
+    width: 90%;
+    height: 50%;
+    margin: auto; 
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-top: 20px;
+
+
+}
+
+.menu ol{
+    list-style: none;
+}
+
+.menu ol li a{
+    padding: 0px 13px;
+    font-size: 20px;
+    font-family: 'arial';
+    text-align: center;
+    text-decoration: none;
+    line-height: 50px;
+    height: 52px;
+    list-style: none;
+    color: aliceblue;
+    
+}
+
+.menu ol li{
+    display: inline;
+    line-height: 50px;
+    height: 52px;
+}
+.menu ol li a:hover
+{
+    color: black;
+    font-size: 25px;  
+}
+
+.header ol{
+    list-style: none;
+    text-align: left;
+    padding-right: 30px;
+}
+
+.header ol li a{
+    padding: 0px 1px;
+    font-size: 15px;
+    font-family: 'arial';
+    text-decoration: none;
+
+    list-style: none;
+    color: yellow;    
+}
+
+.header ol li{
+    display: inline;
+    line-height: 40px;
+    padding: 0px 1px;
+    font-size: 15px;
+    font-family: 'arial';
+    text-decoration: none;
+    list-style: none;
+    color: aliceblue; 
+  }
+.header ol li a:hover
+{
+    line-height: 50px;
+    color: black;
+}
+
+
+
+h1
+{
+    font-size: 25px;
+    color: red;
+    font-family: Arial;
+
+}
+
+h2
+{
+  
+    font-size: 15px;
+    color: red;
+    font-family:Arial;
+}
+
+.content ul li a{
+      color: red;
+}
+
+p a{
+    color: red;
+}
+
+p{
+    font-size: 17px;
+}
+
+.search
+{
+    font-family: 'Time new roman';
+    font-size: 110%;
+    border: 5px solid black;
+    color: black;
+    opacity: 0.5;
+    border-radius: 10px;
+}
+
+.header_menu .search:hover
+{
+    font-family: 'Courier New';
+    font-weight: bold;
+    font-size: 20px;
+
+}

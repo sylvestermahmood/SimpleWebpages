@@ -1,0 +1,218 @@
+body{
+    background-image: linear-gradient(to top, black, white, black, white, black,
+     white, black, white);
+}
+
+.main
+{ 
+    background-color: white;
+    width: 100%;
+    height: 160%;
+    margin: auto;
+    position: relative;
+}
+
+.lub
+{
+    height: 10%;
+    width: 100%;
+    background-color: white;
+   
+}
+
+.lub_logo
+{
+    height: 100%;
+    width: 40%;
+    float: left;
+   
+}
+
+.lub_num
+{
+    height: 100%;
+    width: 55%;
+    float: left;
+
+}
+
+.lub_num p{
+    font-family: Arial;
+    font-size: 30px;
+    text-align: right;
+    font-weight: bold;
+    word-spacing: 10px;
+}
+
+.menu
+{
+    height: 6%;
+    width: 100%;
+    background-image: linear-gradient(to top ,white, grey, white);
+ 
+}
+
+.menu ul
+{
+    list-style: none;
+}
+
+.menu ul li
+
+{
+    text-decoration: none;
+    padding: 0 10px;
+    display: inline;
+    font-family: 'Courier New';
+    font-size: 20px;
+    
+}
+
+.menu ul li a 
+{
+    text-decoration: none;
+    color: black;
+}
+
+.menu ul li a:hover
+{
+    color: #fdcb00;
+}
+
+.content
+{
+    height: 80%;
+    width: 100%;
+    background-image: linear-gradient(to right ,black, black, grey, black, black);
+  
+}
+
+.content1
+{
+    height: 100%;
+    width: 95%;
+    margin: auto;
+}
+
+.img1
+{
+    height: 35%;
+    width: 40%;
+    border: 5px solid white;
+    margin-left: 40px;
+    margin-top: 20px;
+    float: left;
+}
+
+.txt1
+{
+    height: 35%;
+    width: 48%;
+    margin-right: 40px;
+    margin-top: 20px;
+    float: right;
+    overflow: hidden;
+}
+
+.txt1_title
+{
+    width: 100%;
+    height: 12%;
+    background-color: #fdcb00;
+    font-family: Arial;
+    font-size: 10px;
+    color: black;
+    padding-top: 0.3px;
+    
+}
+
+.txt1_txt{
+    background-image: linear-gradient(to right, grey, grey);
+    width: 100%;
+    height: 88%;
+    color: white;
+    font-family: Arial;
+    margin-top: -16px;
+    
+}
+
+.txt2
+{
+    height: 100%;
+    width: 21%;
+    margin-left: 3.3%;
+    background: white;
+    float: left;
+    overflow: hidden;
+}
+
+.txt2_title
+{
+    height: 11%;
+    width: 100%;
+    background-color: #fdcb00;
+    font-family: Arial;
+    font-size: 9px;
+    color: black;
+    padding-top: 0.3px;
+}
+
+
+.txt2_img
+{
+    width: 100%;
+    height: 35%;
+}    
+
+.txt2_txt
+{
+    height: 50%;
+    width: 100%;
+    font-family: Arial;
+    color: black;
+    padding-top: 1px;
+    background-color: white; 
+}
+
+
+.cnter
+{
+    margin-top: 26%;; 
+    height: 4%;
+    width: 93.5%;
+    margin-bottom: 20px; 
+    margin-left: 40px;  
+}
+
+.s_logo
+{
+    height: 100%;
+    width: 10%;
+    float: left;
+    border-radius: 40px; 
+}
+
+.cnter_txt
+{
+    height: 100%;
+    width: 80%;
+    color: #fdcb00;
+    font-size: 20px;
+    padding-left: 13%;
+    margin-top: -6px;
+}
+
+
+.but
+{
+    height: 20%;
+    width: 100%;
+    padding-left: 55%;
+    
+}
+
+.bot
+{
+    height: 44%;
+    width: 100%;
+}
